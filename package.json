@@ -1,0 +1,26 @@
+{
+  "name": "cdmx20181-track-fe-themovieapi",
+  "version": "1.0.0",
+  "description": "Proyecto sobre movies",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrilu7/cdmx20181-Track-FE-themovieapi.git"
+  },
+  "author": "Luz adriana herrera huitzache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrilu7/cdmx20181-Track-FE-themovieapi/issues"
+  },
+  "homepage": "https://github.com/adrilu7/cdmx20181-Track-FE-themovieapi#readme",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "htmlhint": "^0.9.13"
+  }
+}
